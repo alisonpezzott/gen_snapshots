@@ -1,0 +1,80 @@
+{
+    "snapshot": "2025-04-25",
+    "data": [
+        {
+            "branch": "JUNDIAI",
+            "stocks": [
+                {
+                    "sku": "SKU-0001",
+                    "qty": 187
+                },
+                {
+                    "sku": "SKU-0002",
+                    "qty": 584
+                },
+                {
+                    "sku": "SKU-0003",
+                    "qty": 927
+                },
+                {
+                    "sku": "SKU-0004",
+                    "qty": 563
+                },
+                {
+                    "sku": "SKU-0005",
+                    "qty": 916
+                }
+            ]
+        },
+        {
+            "branch": "PIRACICABA",
+            "stocks": [
+                {
+                    "sku": "SKU-0001",
+                    "qty": 592
+                },
+                {
+                    "sku": "SKU-0002",
+                    "qty": 239
+                },
+                {
+                    "sku": "SKU-0003",
+                    "qty": 129
+                },
+                {
+                    "sku": "SKU-0004",
+                    "qty": 919
+                },
+                {
+                    "sku": "SKU-0005",
+                    "qty": 999
+                }
+            ]
+        },
+        {
+            "branch": "RIBEIRAO PRETO",
+            "stocks": [
+                {
+                    "sku": "SKU-0001",
+                    "qty": 7
+                },
+                {
+                    "sku": "SKU-0002",
+                    "qty": 854
+                },
+                {
+                    "sku": "SKU-0003",
+                    "qty": 792
+                },
+                {
+                    "sku": "SKU-0004",
+                    "qty": 416
+                },
+                {
+                    "sku": "SKU-0005",
+                    "qty": 669
+                }
+            ]
+        }
+    ]
+}
